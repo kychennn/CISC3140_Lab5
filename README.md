@@ -1,24 +1,30 @@
-![cartlist](https://user-images.githubusercontent.com/81440356/167994635-d5fed231-40a4-4278-a795-afa6d4496fe4.png)
+# CISC3140_Lab5
 
-![ownerlist](https://user-images.githubusercontent.com/81440356/167994639-0b4b81ce-0a06-4fdb-839b-cd11d35bc889.png)
+Frontend for car data.
+
+## Description
+
+The objective of this lab is to build a front-end that complements the back-end that you created in Lab 4. The lab will use a combination of HTML/CSS/JS users to view data that is stored in a database as well as update data.
+
+## Storyboard
+
+  * View all cars list: Click on 'Cars List' -> view all car detail information on page
+  * View all owners list: Click on 'Owners List' -> view all owners detail information on page
+  * Search for car and owner detail information: Click on 'Search' -> input car id -> view the car information and owner information for this car id
+  * Add a new car: Click on ‘Add Car’ -> Fill in form, click submit -> View confirmation page show 'Insert Successful'
+  * Add a new owner: Click on ‘Add Owner’ -> Fill in form, click submit -> View confirmation page show 'Insert Successful'
+  * Update a car: Click on ‘Update Car’ -> Fill in form, click submit -> View confirmation page show 'Update Successful'
+  * Update a owner: Click on ‘Update Owner’ -> Fill in form, click submit -> View confirmation page show 'Update Successful'
+
+## Helpful Documents
+
+  * {JSON} Placeholder https://jsonplaceholder.typicode.com/
+  * Fix the CORS Error https://medium.com/@dtkatz/3-ways-to-fix-the-cors-error-and-how-access-control-allow-origin-works-d97d55946d9
 
 
-![search](https://user-images.githubusercontent.com/81440356/167994654-f410dad1-d775-4e9b-830b-12633c7ad245.png)
 
 
-![addcar](https://user-images.githubusercontent.com/81440356/167994663-24169c06-ddb5-49ea-ad6a-f25751829d02.png)
-
-![updatecar](https://user-images.githubusercontent.com/81440356/167994672-5b63349d-d010-4cd0-b0b9-3f9bb62326de.png)
-
-
-![addowner](https://user-images.githubusercontent.com/81440356/167994684-2bdf13b1-75b9-4f0b-aae3-04870970f9e0.png)
-
-
-![updateowner](https://user-images.githubusercontent.com/81440356/167994727-332ad89e-5c60-4327-ae6b-99372a6a4a79.png)
-
-
-
-
+------------------------------------------
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
